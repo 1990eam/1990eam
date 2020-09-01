@@ -21,7 +21,7 @@ eli = {
 }
 ```
 
-### Co-founder @ www.teamappsis.com , a platform that helps junior devs find side-projects and boost their portfolio to land a job.
+### Co-founder @ www.teamappsis.com , a platform that helps junior devs find side-projects and boost their portfolio to land a job (repo => locodeamosentretodos)
 
 ##### Looking forward to make a career change into Software Development 🚀
 
