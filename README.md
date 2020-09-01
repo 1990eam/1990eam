@@ -12,7 +12,6 @@
 
 ```javascript
 eli = {
-  location: "Buenos Aires, Argentina",
   code: ["Ruby", "RoR", "HTML5", "CSS/SCSS", "Javascript", "jQuery"],
   tools: ["PostgreSQL", "Heroku", "Node.js", "Figma"],
   architecture: ["MVC"],
