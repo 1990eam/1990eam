@@ -1,6 +1,6 @@
 <h2> Hi, I'm Elián Magni 👋</h2>
 
-<p>Fullstack RoR Developer from <a href="https://www.lewagon.com/es/buenos-aires">Le Wagon Buenos Aires batch #384</a> 🚗
+<p>Fullstack Ruby on Rails Developer. <a href="https://www.lewagon.com/es/buenos-aires">Le Wagon Buenos Aires batch #384</a>
 
 [![](https://img.shields.io/badge/Gmail-magni.elian@gmail.com-red)](mailto:magni.elian@gmail.com)
 [![Linkedin: eliám-magni](https://img.shields.io/badge/-1990eam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eli%C3%A1n-magni-07312a49/)](https://www.linkedin.com/in/eli%C3%A1n-magni-07312a49/)
