@@ -24,6 +24,4 @@ eli = {
 
 ##### Looking forward to make a career change into Software Development 🚀
 
-##### Currently studying Testing 👨🏻‍💻
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1990eam&layout=compact)](https://github.com/1990eam/github-readme-stats)
