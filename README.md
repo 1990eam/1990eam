@@ -13,10 +13,9 @@
 ```javascript
 eli = {
   code: ["Ruby", "RoR", "HTML5", "CSS/SCSS", "Javascript", "jQuery"],
-  tools: ["PostgreSQL", "Heroku", "Node.js", "Figma"],
-  architecture: ["MVC"],
-  projects: {cofounder: "TeamAppsis"},
-  currently_studying: "Testing"
+  tools: ["StimulusJS", "PostgreSQL", "Heroku", "Node.js", "Figma"],
+  architecture: ["MVC", "TDD"],
+  projects: {cofounder: "TeamAppsis"}
 }
 ```
 
