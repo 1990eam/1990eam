@@ -1,4 +1,4 @@
-<h2> Hi, I'm Elián Magni 👋</h2>
+<h2> Hi, my name is Elián Magni 👋</h2>
 
 <p>Fullstack Ruby on Rails Developer. <a href="https://www.lewagon.com/es/buenos-aires">Le Wagon Buenos Aires batch #384</a>
 
