@@ -19,8 +19,6 @@ eli = {
 }
 ```
 
-### Co-founder @ www.teamappsis.com , a platform that helps junior devs find side-projects and boost their portfolio to land a job.
-
-##### Looking forward to make a career change into Software Development 🚀
+### Co-founder @ www.teamappsis.com , a platform that helps junior devs find side-projects and boost their portfolio to land a job 🚀
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1990eam&layout=compact)](https://github.com/1990eam/github-readme-stats)
