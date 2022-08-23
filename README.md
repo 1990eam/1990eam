@@ -12,8 +12,8 @@
 
 ```javascript
 eli = {
-  code: ["Ruby", "RoR", "HTML5", "CSS/SCSS", "Javascript", "jQuery"],
-  tools: ["StimulusJS", "PostgreSQL", "Heroku", "Node.js", "Figma"],
+  code: ["Ruby", "Rails", "HTML5", "CSS/SCSS", "Javascript", "jQuery"],
+  tools: ["StimulusJS", "PostgreSQL", "Heroku", "Node.js", "Figma", "Sentry"],
   architecture: ["MVC", "TDD"],
   projects: {cofounder: "TeamAppsis"}
 }
