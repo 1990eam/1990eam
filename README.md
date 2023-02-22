@@ -12,7 +12,7 @@
 
 ```javascript
 eli = {
-  code: ["Ruby", "Rails", "HTML5", "CSS/SCSS", "Javascript", "jQuery"],
+  code: ["Ruby", "Rails", "HTML5", "CSS/SCSS", "Javascript"],
   tools: ["StimulusJS", "PostgreSQL", "Heroku", "Node.js", "Figma", "Sentry"],
   architecture: ["MVC", "TDD"],
   projects: {cofounder: "TeamAppsis"}
