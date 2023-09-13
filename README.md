@@ -21,4 +21,4 @@ eli = {
 
 ### Co-founder @ www.teamappsis.com , a platform that helps junior devs find side-projects and boost their portfolio to land a job 🚀
 
-[![Top Langs](https://github-readme-stats-zeta-gray.vercel.app/api/top-langs/?username=1990eam&langs_count=8&layout=donut)](https://github.com/1990eam/github-readme-stats)
+[![Top Langs](https://github-readme-stats-zeta-gray.vercel.app/api/top-langs/?username=1990eam&langs_count=8&layout=donut&hide=css)](https://github.com/1990eam/github-readme-stats)
